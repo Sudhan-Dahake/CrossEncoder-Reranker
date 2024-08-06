@@ -1,4 +1,4 @@
-# CrossEncoder Re-Ranker Model
+# Cross-Encoder ReRanker Model
 
 This project implements a Cross-Encoder re-ranker model using the `sentence-transformers` library. The primary objective is to enhance the relevance of text chunks by emphasizing the middle tokens, based on the principles discussed in the paper "Lost in the Middle." The model then re-ranks these text chunks in order of relevance to a given query.
 
